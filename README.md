@@ -2,7 +2,7 @@
 
 - My name is Raymon Roos, I somtimes go by @Raymanovich online
 - 👀 I’m interested in all things computers. And also literature and philosophy 
-- 🌱 I’m currently learning programming @bit-academy-b-v
+- 🌱 I’m currently learning programming @Bit Academy
 - 💞️ I’m looking to collaborate on minimalist linux applications
 
 <!---
