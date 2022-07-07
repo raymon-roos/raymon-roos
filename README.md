@@ -1,6 +1,6 @@
 # Howdy 👋
 
-- My name is Raymon Roos, I mostly go by @Raymanovich online
+My name is Raymon Roos, I mostly go by @Raymanovich online
 - 👀 I’m interested in all things computers. And also literature and philosophy 
 - 🌱 I’m currently learning programming @Bit Academy
 - 💞️ I’m looking to collaborate on minimalist linux applications
