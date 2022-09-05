@@ -1,11 +1,11 @@
 # Howdy 👋
 
 My name is Raymon Roos, I mostly go by @Raymanovich online
-- ✨ I’m interested in all things computers and also literature and philosophy.
--  I'm a gnu/linux and FOSS enthousiast 
-- 🌱 I’m currently learning programming @Bit Academy
-- 💞️ I’m would love to collaborate on minimalist linux applications
-- 👀 I'm looking for an internship as software developer.  
+- ✨ I am interested in all things computers and also literature and philosophy.
+-  I am a gnu/linux and FOSS enthousiast 
+- 🌱 I am currently learning programming @Bit Academy
+- 💞️ I would love to collaborate on minimalist linux applications
+- 👀 I am looking for an internship as software developer.  
 -  Connect with me on [LinkedIn](https://www.linkedin.com/in/raymon-roos-1840a7228/)
 
 <!---
