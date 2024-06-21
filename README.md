@@ -4,7 +4,7 @@ My name is Raymon Roos, student software development and full time geek.
 
 -   :computer: :book: I am interested in all things computers and also literature and philosophy.
 -    I am a GNU/Linux and FOSS enthusiast
--   🌱 I am currently learning programming @Bit-Academy
+-   🌱 I am ~currently learning programming~ about to graduate at @Bit-Academy! 🎊
 -   💞️ I would love to collaborate on minimalist Linux applications
 -   🚙: Currently absorbing knowledge at [Fixico](https://fixico.com/) as a platform engineer
 -    Connect with me on [LinkedIn](https://www.linkedin.com/in/raymon-roos-1840a7228/)
