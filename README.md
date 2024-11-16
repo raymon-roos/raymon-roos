@@ -2,15 +2,16 @@
 
 My name is Raymon Roos, student software development and full time geek.
 
--   :computer: :book: I am interested in all things computers and also literature and philosophy.
--    I am a GNU/Linux and FOSS enthusiast
--   🌱 I am ~currently learning programming~ **recently graduated at @Bit-Academy!** 🎊
+-   :computer: I am interested in all things computers and also literature and philosophy. :book:
+-    I am a GNU/Linux and FOSS enthusiast 
 -   💞️ I would love to collaborate on minimalist Linux applications
--   🚙 Currently absorbing knowledge at [Fixico](https://fixico.com/) as a platform engineer
--    Connect with me on [LinkedIn](https://www.linkedin.com/in/raymon-roos-1840a7228/)
--   :key: Message me securely using my [public key](./raymon_public.gpg)
--    Peruse my [Curriculum Vitae](https://github.com/raymon-roos/curriculum-vitae/blob/main/cv_raymon_roos.pdf)
--   :bookmark: Curated lists of [my projects and other resources](https://github.com/raymon-roos?tab=stars):
+-   🎓 I have graduated from the Software Development study at @BitAcademy
+-   🌱 I am currently studying Open-ICT at Hogeschool Utrecht   
+    🚙 ... while also absorbing knowledge at [Fixico](https://fixico.com/) as a platform engineer
+-   :key: message me securely using my [public key](./raymon_public.gpg)
+-    peruse my [Curriculum Vitae](https://github.com/raymon-roos/curriculum-vitae/blob/main/cv_raymon_roos.pdf)
+-    connect with me on [LinkedIn](https://www.linkedin.com/in/raymon-roos-1840a7228/)
+-   :bookmark: check out curated lists of [my projects and other resources](https://github.com/raymon-roos?tab=stars)
 
 <!---
 Raymanovich/Raymanovich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
