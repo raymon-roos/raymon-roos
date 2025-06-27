@@ -7,11 +7,12 @@ My name is Raymon Roos, student software development and full time geek.
 -   💞️ I would love to collaborate on minimalist Linux applications
 -   🎓 I have graduated from the Software Development study at @BitAcademy
 -   🌱 I am currently studying Open-ICT at Hogeschool Utrecht   
-    🚙 ... while also absorbing knowledge at [Fixico](https://fixico.com/) as a platform engineer
--   🔑 message me securely using my [public key](./raymon_public.gpg)
--   📜 peruse my [Curriculum Vitae](https://github.com/raymon-roos/curriculum-vitae/blob/main/cv_raymon_roos.pdf)
--   🔗 connect with me on [LinkedIn](https://www.linkedin.com/in/raymon-roos-1840a7228/)
--   🔖 check out curated lists of [my projects and other resources](https://github.com/raymon-roos?tab=stars)
+-   🚙 Previously worked at [Fixico](https://fixico.com/) as a platform engineer
+-   👷 Currently looking for work
+-   🔑 Message me securely using my [public key](./raymon_public.gpg)
+-   📜 Peruse my [Curriculum Vitae](https://github.com/raymon-roos/curriculum-vitae/blob/main/cv_raymon_roos.pdf)
+-   🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/raymon-roos-1840a7228/)
+-   🔖 Check out curated lists of [my projects and other resources](https://github.com/raymon-roos?tab=stars)
 
 <!---
 Raymanovich/Raymanovich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
